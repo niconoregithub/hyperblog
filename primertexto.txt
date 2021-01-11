@@ -1,0 +1,3 @@
+este es mi primer ejecicio en git
+tengo que seguir juicioso estudiando 
+para poder convertirme en un buen programador
