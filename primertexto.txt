@@ -1,4 +1,6 @@
-este es mi primer ejecicio en GIT
+Hola voy a hacer una edicion en el texto ya que encontre varios detalles para mejorar mis conocimentos como por ejemplo hacer unas ubuntu como un usuario nuevo y poder realizar el ejercicio correctamente.
+ES INDISPENSABLE SABER EN QUE BRANCH ESTAMOS TRABAJANDO.
+Este es mi primer ejecicio en GIT
 tengo que seguir juicioso estudiando 
 para poder convertirme en un buen programador
 
